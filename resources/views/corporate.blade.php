@@ -9,7 +9,7 @@
           <div class="cs_top_header_in">
             <div class="cs_top_header_left">
               <ul class="cs_top_nav d-flex flex-wrap align-items-center cs_fs_12 text-white m-0 p-0">
-                <li><b class="fw-medium text-white">Address:</b> Jl. D. I. Panjaitan No. 65, Soklat, Subang, Jawa Barat</li>
+                <li><b class="fw-medium text-white">Alamat:</b> Jl. D. I. Panjaitan No. 65, Soklat, Subang, Jawa Barat</li>
               </ul>
             </div>
         </div>
@@ -62,7 +62,7 @@
                     </svg>
                   </div>
                   <div class="cs_header_contact_right">
-                    <h3 class="text-white fw-normal cs_mb_6 cs_fs_13">Need help?  Call us:</h3>
+                    <h3 class="text-white fw-normal cs_mb_6 cs_fs_13">Butuh Bantuan  Hubungi kami:</h3>
                     <h3 class="text-white m-0 cs_fs_13">(+800) 1234 5678 90</h3>
                   </div>
                 </div>
@@ -84,7 +84,7 @@
               Business   
             </span>
           </h1>
-          <a href="{{ url('contact') }}" class="cs_btn cs_style_1 cs_fs_16 cs_rounded_5 cs_pl_30 cs_pr_30 cs_pt_10 cs_pb_10 overflow-hidden"><span>Get A Quote</span></a>
+          <a href="{{ url('contact') }}" class="cs_btn cs_style_1 cs_fs_16 cs_rounded_5 cs_pl_30 cs_pr_30 cs_pt_10 cs_pb_10 overflow-hidden"><span>Dapatkan penawaran</span></a>
         </div>
       </div>
       <div class="bg-primary opacity-75 position-absolute w-100 h-100 start-0 top-0"></div>
@@ -539,8 +539,8 @@
                     </svg>                  
                   </div>
                   <div>
-                    <p class="text-accent cs_mb_10">Have Any Question?</p>
-                    <h2 class="m-0 fw-medium cs_fs_22 cs_lh_base">+ 070 4531 9507 </h2>
+                    <p class="text-accent cs_mb_10">Ada Pertanyaan?</p>
+                    <h2 class="m-0 fw-medium cs_fs_22 cs_lh_base">+62 823-2030-8466</h2>
                   </div>
                 </div>
               </div>
@@ -550,10 +550,6 @@
                     <svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
                       <path d="M34.1388 5H5.86125C4.63868 5.00132 3.46656 5.48758 2.60207 6.35207C1.73758 7.21656 1.25132 8.38868 1.25 9.61125V30.3888C1.25132 31.6113 1.73758 32.7834 2.60207 33.6479C3.46656 34.5124 4.63868 34.9987 5.86125 35H34.1388C35.3613 34.9987 36.5334 34.5124 37.3979 33.6479C38.2624 32.7834 38.7487 31.6113 38.75 30.3888V9.61125C38.7487 8.38868 38.2624 7.21656 37.3979 6.35207C36.5334 5.48758 35.3613 5.00132 34.1388 5ZM5.86125 7.5H34.1388C34.6985 7.50066 35.2351 7.72331 35.6309 8.1191C36.0267 8.51489 36.2493 9.05151 36.25 9.61125V10.5675L20 21.0138L3.75 10.5675V9.61125C3.75066 9.05151 3.97331 8.51489 4.3691 8.1191C4.76489 7.72331 5.30151 7.50066 5.86125 7.5ZM34.1388 32.5H5.86125C5.30151 32.4993 4.76489 32.2767 4.3691 31.8809C3.97331 31.4851 3.75066 30.9485 3.75 30.3888V13.54L19.3237 23.5512C19.5254 23.681 19.7602 23.75 20 23.75C20.2398 23.75 20.4746 23.681 20.6763 23.5512L36.25 13.54V30.3888C36.2493 30.9485 36.0267 31.4851 35.6309 31.8809C35.2351 32.2767 34.6985 32.4993 34.1388 32.5Z" fill="white"/>
                     </svg>               
-                  </div>
-                  <div>
-                    <p class="text-accent cs_mb_10">Send Email</p>
-                    <h2 class="m-0 fw-medium cs_fs_22 cs_lh_base">pixcelsthemes@gmail.com</h2>
                   </div>
                 </div>
               </div>

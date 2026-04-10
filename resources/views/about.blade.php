@@ -2,7 +2,7 @@
 
 @section('content')
 
-  <x-header pageTitle="About Us" breadcrumbItem="About" />
+  <x-header pageTitle="Tentang Kami" breadcrumbItem="Tentang" />
 
     <!-- Start About Section -->
     <section class="cs_pt_135 cs_pt_lg_75 cs_pb_140 cs_pb_lg_80 position-relative">
@@ -28,45 +28,21 @@
             <div class="cs_about cs_style_1">
               <div class="cs_section_heading cs_style_1 d-flex align-items-center cs_mb_15">
                 <div class="cs_section_heading_in">
-                  <h3 class="cs_fs_20 cs_fs_lg_18 text-accent fw-normal cs_lh_base cs_mb_10 wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.2s">About Us</h3>
-                  <h2 class="cs_fs_48 cs_fs_lg_36 cs_mb_20">Get Ready for Success with <span class="text-accent">Bizmax</span> Your Path to Growth.</h2>
-                  <p class="m-0">Providing legal advice, contract drafting, compliance assistance, intellectual property protection, and other legal support for businesses. Creating visual content, such as logos, brochures, infographics, and other branding materials.</p>
+                  <h3 class="cs_fs_20 cs_fs_lg_18 text-accent fw-normal cs_lh_base cs_mb_10 wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.2s">Tentang</h3>
+                  <h2 class="cs_fs_48 cs_fs_lg_36 cs_mb_20">Bersama Kami <span class="text-accent">Ekky Refleksi Family</span> rasakan perawatan tubuh yang nyaman dan profesional.</h2>
+                  <p class="m-0">Ekky Refleksi Family adalah pusat layanan refleksi dan pijat kesehatan yang berkomitmen untuk memberikan pengalaman relaksasi terbaik bagi keluarga anda. Dengan terapis berpengalaman dan suasana yang nyaman, kami siap membantu anda memanjakan tubuh dan pikiran</p>
                 </div>
               </div>
-              <div class="cs_progressbar cs_style_1 cs_mb_20">
-                <div class="cs_progressbar_heading d-flex justify-content-between align-items-center cs_mb_8">
-                  <h3 class="fw-medium m-0 cs_fs_18">Web development</h3>
-                  <p class="cs_fs_14 cs_lh_base m-0">90%</p>
-                </div>
-                <div class="cs_progress cs_rounded_8 overflow-hidden" data-progress="90">
-                  <div class="cs_progress_in bg-accent cs_rounded_8 h-100 wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.2s"></div>
-                </div>
-              </div><!-- .cs_progressbar -->
-              <div class="row cs_mb_15">
-                <div class="col-lg-6">
-                  <div class="cs_about-icon-box position-relative cs_mb_25">
-                    <span class="position-absolute cs_height_20 cs_width_20 top-0 start-0 cs_mt_5 bg-accent text-white cs_fs_10 d-flex align-items-center justify-content-center cs_rounded_30"><i class="fa-solid fa-angles-right"></i></span>
-                    <h3 class="cs_fs_16 cs_pl_35 cs_mb_12 cs_lh_lg">Accounting and Bookkeeping</h3>
-                    <p class="m-0">Services related to financial record-keeping, bookkeeping.</p>
-                  </div>
-                </div>
-                <div class="col-lg-6">
-                  <div class="cs_about-icon-box position-relative cs_mb_25">
-                    <span class="position-absolute cs_height_20 cs_width_20 top-0 start-0 cs_mt_5 bg-accent text-white cs_fs_10 d-flex align-items-center justify-content-center cs_rounded_30"><i class="fa-solid fa-angles-right"></i></span>
-                    <h3 class="cs_fs_16 cs_pl_35 cs_mb_12 cs_lh_lg">Human Resources (HR) Consulting</h3>
-                    <p class="m-0">Assistance with HR-related tasks such as recruitment.</p>
-                  </div>
-                </div>
-              </div>
+              <!-- .cs_progressbar -->
               <div class="d-flex align-items-center cs_row_gap_20 cs_column_gap_30 cs_column_gap_lg_20 flex-wrap">
-                <a href="{{ url('contact') }}" class="cs_btn cs_style_1 cs_fs_16 cs_rounded_5 cs_pl_30 cs_pr_30 cs_pt_10 cs_pb_10 overflow-hidden"><span>Get A Quote</span></a>
-                <a href="https://www.youtube.com/embed/VStvZjykQ00" class="cs_video_open d-flex align-items-center">
+                <a href="{{ url('contact') }}" class="cs_btn cs_style_1 cs_fs_16 cs_rounded_5 cs_pl_30 cs_pr_30 cs_pt_10 cs_pb_10 overflow-hidden"><span>Dapatkan penawaran</span></a>
+                <a href="https://www.instagram.com/reel/DSZ-U3FE7_O/?igsh=eWN1eGEydjNvZGVm" target="_blank" rel="noopener noreferrer" class="d-flex align-items-center">
                   <span class="cs_player_btn cs_width_45 cs_height_45 rounded-circle d-flex align-items-center justify-content-center text-white bg-primary position-relative cs_pl_5">
                     <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                       <path d="M1.71401 16C1.61636 16 1.51868 15.9748 1.43054 15.9246C1.25251 15.8231 1.14258 15.6339 1.14258 15.4285V0.570579C1.14258 0.365193 1.25251 0.176009 1.43054 0.0744495C1.61022 -0.026561 1.82844 -0.0243301 2.00475 0.0783627L14.5762 7.50735C14.7503 7.6106 14.8569 7.79755 14.8569 7.99957C14.8569 8.20159 14.7503 8.38855 14.5762 8.49179L2.00475 15.9207C1.9149 15.9732 1.81443 16 1.71401 16ZM2.28544 1.57172V14.4274L13.1621 7.99957L2.28544 1.57172Z" fill="white"/>
                     </svg>   
                   </span>
-                  <span class="cs_ml_15">Watch the video</span>               
+                  <span class="cs_ml_15">Lihat Video</span>               
                 </a>
               </div>
             </div>

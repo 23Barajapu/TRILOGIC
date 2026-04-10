@@ -8,7 +8,7 @@
           <div class="cs_top_header_in">
             <div class="cs_top_header_left">
               <ul class="cs_top_nav d-flex flex-wrap align-items-center cs_fs_12 text-white m-0 p-0">
-                <li><b class="fw-medium text-white">Address:</b> Jl. D. I. Panjaitan No. 65, Soklat, Subang, Jawa Barat</li>
+                <li><b class="fw-medium text-white">Alamat:</b> Jl. D. I. Panjaitan No. 65, Soklat, Subang, Jawa Barat</li>
               </ul>
             </div>
           </div>
@@ -62,8 +62,8 @@
                     </svg>
                   </div>
                   <div class="cs_header_contact_right">
-                    <h3 class="text-white fw-normal cs_mb_6 cs_fs_13">Need help?  Call us:</h3>
-                    <h3 class="text-white m-0 cs_fs_13">(+800) 1234 5678 90</h3>
+                    <h3 class="text-white fw-normal cs_mb_6 cs_fs_13">Butuh Bantuan  Hubungi kami:</h3>
+                    <h3 class="text-white m-0 cs_fs_13">+62 823-2030-8466</h3>
                   </div>
                 </div>
               </div>
@@ -79,11 +79,11 @@
       <div class="container position-relative z-index-1">
         <nav aria-label="breadcrumb">
           <ol class="breadcrumb text-white cs_fs_18 cs_mb_5">
-            <li class="breadcrumb-item"><a href="{{ url('index') }}">Home</a></li>
-            <li class="breadcrumb-item active">Contact</li>
+            <li class="breadcrumb-item"><a href="{{ url('index') }}">Beranda</a></li>
+            <li class="breadcrumb-item active">Kontak</li>
           </ol>
         </nav>
-        <h1 class="cs_fs_48 cs_fs_lg_36 text-white m-0">Contact</h1>
+        <h1 class="cs_fs_48 cs_fs_lg_36 text-white m-0">Kontak</h1>
       </div>
       <div class="position-absolute end-0 bottom-0">
         <svg width="660" height="497" viewBox="0 0 660 497" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -106,7 +106,7 @@
           <div class="col-xl-7 col-lg-6">
             <div class="cs_section_heading cs_style_1 d-flex align-items-center cs_mb_30">
               <div class="cs_section_heading_in">
-                <h3 class="cs_fs_20 cs_fs_lg_18 text-accent fw-normal cs_lh_base cs_mb_10 wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.2s">Have any question?</h3>
+                <h3 class="cs_fs_20 cs_fs_lg_18 text-accent fw-normal cs_lh_base cs_mb_10 wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.2s">Ada Pertanyaan?</h3>
                 <h2 class="cs_fs_48 cs_fs_lg_36 m-0">Write a Message</h2>
               </div>
             </div>
@@ -137,7 +137,7 @@
                 <div class="cs_section_heading_in">
                   <h3 class="cs_fs_20 cs_fs_lg_18 text-accent fw-normal cs_lh_base cs_mb_10">Contact With Us</h3>
                   <h2 class="cs_fs_48 cs_fs_lg_36 cs_mb_20">Let’s work together</h2>
-                  <p class="m-0">Providing legal advice, contract drafting, compliance assistance, intellectual property protection, and other legal support for businesses.</p>
+                  <p class="m-0">Ekky Refleksi Family siap membantu anda dengan layanan refleksi dan pijat kesehatan profesional. Hubungi kami untuk informasi lebih lanjut atau reservasi.</p>
                 </div>
               </div>
               <div class="d-flex align-items-center cs_mb_30">
@@ -149,19 +149,8 @@
                   </svg>                  
                 </div>
                 <div>
-                  <p class="text-accent cs_mb_7">Have Any Question?</p>
-                  <h2 class="m-0 fw-medium cs_fs_22 cs_fs_lg_18 cs_lh_base">+ 070 4531 9507 </h2>
-                </div>
-              </div>
-              <div class="d-flex align-items-center cs_mb_30">
-                <div class="d-flex align-items-center justify-content-center cs_height_90 cs_width_90 cs_height_lg_80 cs_width_lg-80 cs_rounded_10 flex-none cs_mr_20 bg-accent">
-                  <svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    <path d="M34.1388 5H5.86125C4.63868 5.00132 3.46656 5.48758 2.60207 6.35207C1.73758 7.21656 1.25132 8.38868 1.25 9.61125V30.3888C1.25132 31.6113 1.73758 32.7834 2.60207 33.6479C3.46656 34.5124 4.63868 34.9987 5.86125 35H34.1388C35.3613 34.9987 36.5334 34.5124 37.3979 33.6479C38.2624 32.7834 38.7487 31.6113 38.75 30.3888V9.61125C38.7487 8.38868 38.2624 7.21656 37.3979 6.35207C36.5334 5.48758 35.3613 5.00132 34.1388 5ZM5.86125 7.5H34.1388C34.6985 7.50066 35.2351 7.72331 35.6309 8.1191C36.0267 8.51489 36.2493 9.05151 36.25 9.61125V10.5675L20 21.0138L3.75 10.5675V9.61125C3.75066 9.05151 3.97331 8.51489 4.3691 8.1191C4.76489 7.72331 5.30151 7.50066 5.86125 7.5ZM34.1388 32.5H5.86125C5.30151 32.4993 4.76489 32.2767 4.3691 31.8809C3.97331 31.4851 3.75066 30.9485 3.75 30.3888V13.54L19.3237 23.5512C19.5254 23.681 19.7602 23.75 20 23.75C20.2398 23.75 20.4746 23.681 20.6763 23.5512L36.25 13.54V30.3888C36.2493 30.9485 36.0267 31.4851 35.6309 31.8809C35.2351 32.2767 34.6985 32.4993 34.1388 32.5Z" fill="white"/>
-                  </svg>               
-                </div>
-                <div>
-                  <p class="text-accent cs_mb_7">Send Email</p>
-                  <h2 class="m-0 fw-medium cs_fs_22 cs_fs_lg_18 cs_lh_base">pixcelsthemes@gmail.com</h2>
+                  <p class="text-accent cs_mb_7">Ada Pertanyaan?</p>
+                  <h2 class="m-0 fw-medium cs_fs_22 cs_fs_lg_18 cs_lh_base">+62 823-2030-8466</h2>
                 </div>
               </div>
               <div class="d-flex align-items-center">
@@ -172,8 +161,8 @@
                   </svg>                              
                 </div>
                 <div>
-                  <p class="text-accent cs_mb_7">Address</p>
-                  <h2 class="m-0 fw-medium cs_fs_22 cs_fs_lg_18 cs_lh_base">Yewtree Cottage, Kings Pyon, HR4 8PZ</h2>
+                  <p class="text-accent cs_mb_7">Alamat</p>
+                  <h2 class="m-0 fw-medium cs_fs_22 cs_fs_lg_18 cs_lh_base">Jl. D. I. Panjaitan No. 65, Soklat, Subang, Jawa Barat</h2>
                 </div>
               </div>
             </div>
@@ -184,7 +173,7 @@
     <!-- End Contact Section -->
     <!-- Start Google Map -->
     <div class="cs_map">
-      <iframe id="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d96652.27317354927!2d-74.33557928194516!3d40.79756494697628!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c3a82f1352d0dd%3A0x81d4f72c4435aab5!2sTroy+Meadows+Wetlands!5e0!3m2!1sen!2sbd!4v1563075599994!5m2!1sen!2sbd" allowfullscreen></iframe>
+      <iframe id="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.521260322383!2d107.76140181482942!3d-6.560197995162388!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69c5f5e5e5e5e5%3A0x5e5e5e5e5e5e5e5e!2sJl.+D.+I.+Panjaitan+No.+65%2C+Soklat%2C+Subang%2C+Jawa+Barat!5e0!3m2!1sen!2sid!4v1650000000000!5m2!1sen!2sid" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div>
     <!-- End Google Map -->
     @endsection

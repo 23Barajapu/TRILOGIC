@@ -2,14 +2,14 @@
 
 @section('content')
 
-  <x-header pageTitle="Services" breadcrumbItem="Services" />
+  <x-header pageTitle="Layanan" breadcrumbItem="Layanan" />
 
     <!-- Start Service Section -->
     <section class="cs_pt_140 cs_pt_lg_80 cs_pb_115 cs_pb_lg_55">
       <div class="container">
         <div class="cs_section_heading cs_style_1 text-center cs_mb_60 cs_mb_lg_40">
           <div class="cs_section_heading_in">
-            <h3 class="cs_fs_20 text-accent fw-normal cs_lh_base wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.2s">Services</h3>
+            <h3 class="cs_fs_20 text-accent fw-normal cs_lh_base wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.2s">Layanan</h3>
             <h2 class="cs_fs_48 cs_fs_lg_36 m-0">Commited to Deliver Top <br>Quality Services</h2>
           </div>
         </div>
@@ -133,19 +133,6 @@
       </div>
     </section>
     <!-- End Service Section -->
-    <!-- Start Brand Section -->
-    <div class="bg-gray cs_pt_110 cs_pb_110">
-      <div class="container">
-        <div class="cs_brands d-flex justify-content-xl-between align-items-center cs_column_gap_25 cs_row_gap_25 flex-wrap justify-content-center">
-          <div class="cs_brand"><img src="assets/img/brand_1.svg" alt="Brand"></div>
-          <div class="cs_brand"><img src="assets/img/brand_2.svg" alt="Brand"></div>
-          <div class="cs_brand"><img src="assets/img/brand_3.svg" alt="Brand"></div>
-          <div class="cs_brand"><img src="assets/img/brand_4.svg" alt="Brand"></div>
-          <div class="cs_brand"><img src="assets/img/brand_5.svg" alt="Brand"></div>
-        </div>
-      </div>
-    </div>
-    <!-- End Brand Section -->
     <!-- Start Testimonial Section -->
     <section class="background-filled cs_pt_140 cs_pt_lg_75 cs_pb_135 cs_pb_lg_75" data-src="assets/img/testimonial_bg.jpeg">
       <div class="cs_testimonial_slider cs_gap_30">

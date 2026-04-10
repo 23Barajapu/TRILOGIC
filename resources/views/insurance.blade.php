@@ -53,8 +53,8 @@
                     </svg>
                   </div>
                   <div class="cs_header_contact_right">
-                    <h3 class="fw-normal cs_mb_6 cs_fs_13">Need help?  Call us:</h3>
-                    <h3 class="m-0 cs_fs_13">(+800) 1234 5678 90</h3>
+                    <h3 class="text-white fw-normal cs_mb_6 cs_fs_13">Butuh bantuan?  Hubungi kami:</h3>
+                    <h3 class="text-white m-0 cs_fs_13">+62 823-2030-8466</h3>
                   </div>
                 </div>
               </div>
@@ -79,7 +79,7 @@
             <h1 class="cs_mb_18 cs_fs_60 cs_fs_lg_46">Bizmax Your Path to Comprehensive Insurance Solutions</h1>
             <p class="cs_mb_32 cs_fs_18">Welcome to BizServe, your one-stop destination for comprehensive financial insights and top-notch services.</p>
             <div class="cs_hero_btn">
-              <a href="{{ url('contact') }}" class="cs_btn cs_style_1 cs_fs_16 cs_rounded_5 cs_pl_30 cs_pr_30 cs_pt_10 cs_pb_10 overflow-hidden"><span>Get A Quote</span></a>
+              <a href="{{ url('contact') }}" class="cs_btn cs_style_1 cs_fs_16 cs_rounded_5 cs_pl_30 cs_pr_30 cs_pt_10 cs_pb_10 overflow-hidden"><span>Dapatkan penawaran</span></a>
               <a href="{{ url('contact') }}" class="cs_btn cs_style_2 cs_fs_16 cs_rounded_5 cs_pl_30 cs_pr_30 cs_pt_9 cs_pb_9 overflow-hidden"><span>Learn More</span></a>
             </div>
           </div>
@@ -427,7 +427,7 @@
                 <li><i><img src="assets/img/icons/shield.svg" alt="Icon"></i>Holistic Protection</li>
               </ul>
               <div class="d-flex align-items-center cs_row_gap_20 cs_column_gap_30 cs_column_gap_lg_20 flex-wrap">
-                <a href="{{ url('contact') }}" class="cs_btn cs_style_1 cs_fs_16 cs_rounded_5 cs_pl_30 cs_pr_30 cs_pt_10 cs_pb_10 overflow-hidden"><span>Get A Quote</span></a>
+                <a href="{{ url('contact') }}" class="cs_btn cs_style_1 cs_fs_16 cs_rounded_5 cs_pl_30 cs_pr_30 cs_pt_10 cs_pb_10 overflow-hidden"><span>Dapatkan penawaran</span></a>
               </div>
             </div>
           </div>
@@ -730,7 +730,7 @@
                   <span>100000</span>
                 </div>
               </div><!-- .cs_progressbar -->
-              <button class="cs_btn cs_style_1 cs_fs_16 cs_rounded_5 cs_pl_30 cs_pr_30 cs_pt_10 cs_pb_10 overflow-hidden"><span>Get a quote</span></button>
+              <button class="cs_btn cs_style_1 cs_fs_16 cs_rounded_5 cs_pl_30 cs_pr_30 cs_pt_10 cs_pb_10 overflow-hidden"><span>Dapatkan penawaran</span></button>
             </form>
           </div>
           <div class="col-lg-5 offset-lg-1">

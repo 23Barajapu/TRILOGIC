@@ -8,7 +8,7 @@
           <div class="cs_top_header_in">
             <div class="cs_top_header_left">
               <ul class="cs_top_nav d-flex flex-wrap align-items-center cs_fs_12 text-white m-0 p-0">
-                <li><b class="fw-medium text-white">Address:</b> Jl. D. I. Panjaitan No. 65, Soklat, Subang, Jawa Barat</li>
+                <li><b class="fw-medium text-white">Alamat:</b> Jl. D. I. Panjaitan No. 65, Soklat, Subang, Jawa Barat</li>
               </ul>
             </div>
           </div>
@@ -62,8 +62,8 @@
                     </svg>
                   </div>
                   <div class="cs_header_contact_right">
-                    <h3 class="text-white fw-normal cs_mb_6 cs_fs_13">Need help?  Call us:</h3>
-                    <h3 class="text-white m-0 cs_fs_13">(+800) 1234 5678 90</h3>
+                    <h3 class="text-white fw-normal cs_mb_6 cs_fs_13">Butuh bantuan?  Hubungi kami:</h3>
+                    <h3 class="text-white m-0 cs_fs_13">+62 823-2030-8466</h3>
                   </div>
                 </div>
               </div>
@@ -95,7 +95,7 @@
                       Nikmati pengalaman refleksi dan pijat kesehatan yang <br>menyenangkan dan menyegarkan di Ekky Refleksi Family. <br> Kami hadir untuk membantu anda mencapai relaksasi optimal <br> dan meningkatkan kesehatan tubuh.
                     </p>
                     <div class="cs_hero_btn">
-                      <a href="{{ url('contact') }}" class="cs_btn cs_style_1 cs_fs_16 cs_rounded_5 cs_pl_30 cs_pr_30 cs_pt_10 cs_pb_10 overflow-hidden"><span>Get A Quote</span></a>
+                      <a href="{{ url('contact') }}" class="cs_btn cs_style_1 cs_fs_16 cs_rounded_5 cs_pl_30 cs_pr_30 cs_pt_10 cs_pb_10 overflow-hidden"><span>Dapatkan penawaran</span></a>
                     </div>
                   </div>
                 </div>
@@ -117,7 +117,7 @@
                       I have been a loyal customer of this auto parts company for years and I cannot <br>recommend them enough. Their extensive selection of high-quality parts and <br> accessories.
                     </p>
                     <div class="cs_hero_btn">
-                      <a href="{{ url('contact') }}" class="cs_btn cs_style_1 cs_fs_16 cs_rounded_5 cs_pl_30 cs_pr_30 cs_pt_10 cs_pb_10 overflow-hidden"><span>Get A Quote</span></a>
+                      <a href="{{ url('contact') }}" class="cs_btn cs_style_1 cs_fs_16 cs_rounded_5 cs_pl_30 cs_pr_30 cs_pt_10 cs_pb_10 overflow-hidden"><span>Dapatkan penawaran</span></a>
                     </div>
                   </div>
                 </div>
@@ -139,7 +139,7 @@
                       I have been a loyal customer of this auto parts company for years and I cannot <br>recommend them enough. Their extensive selection of high-quality parts and <br> accessories.
                     </p>
                     <div class="cs_hero_btn">
-                      <a href="{{ url('contact') }}" class="cs_btn cs_style_1 cs_fs_16 cs_rounded_5 cs_pl_30 cs_pr_30 cs_pt_10 cs_pb_10 overflow-hidden"><span>Get A Quote</span></a>
+                      <a href="{{ url('contact') }}" class="cs_btn cs_style_1 cs_fs_16 cs_rounded_5 cs_pl_30 cs_pr_30 cs_pt_10 cs_pb_10 overflow-hidden"><span>Dapatkan penawaran</span></a>
                     </div>
                   </div>
                 </div>
@@ -396,7 +396,7 @@
                 </div>
               </div>
               <div class="d-flex align-items-center cs_row_gap_20 cs_column_gap_30 cs_column_gap_lg_20 flex-wrap">
-                <a href="{{ url('contact') }}" class="cs_btn cs_style_1 cs_fs_16 cs_rounded_5 cs_pl_30 cs_pr_30 cs_pt_10 cs_pb_10 overflow-hidden"><span>Get A Quote</span></a>
+                <a href="{{ url('contact') }}" class="cs_btn cs_style_1 cs_fs_16 cs_rounded_5 cs_pl_30 cs_pr_30 cs_pt_10 cs_pb_10 overflow-hidden"><span>Dapatkan penawaran</span></a>
                 <a href="https://www.youtube.com/embed/VStvZjykQ00" class="cs_video_open d-flex align-items-center">
                   <span class="cs_player_btn cs_width_45 cs_height_45 rounded-circle d-flex align-items-center justify-content-center text-white bg-primary position-relative cs_pl_5">
                     <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">

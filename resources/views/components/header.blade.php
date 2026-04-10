@@ -5,7 +5,7 @@
           <div class="cs_top_header_in">
             <div class="cs_top_header_left">
               <ul class="cs_top_nav d-flex flex-wrap align-items-center cs_fs_12 text-white m-0 p-0">
-                <li><b class="fw-medium text-white">Address:</b> Jl. D. I. Panjaitan No. 65, Soklat, Subang, Jawa Barat</li>
+                <li><b class="fw-medium text-white">Alamat:</b> Jl. D. I. Panjaitan No. 65, Soklat, Subang, Jawa Barat</li>
               </ul>
             </div>
           </div>
@@ -59,8 +59,8 @@
                     </svg>
                   </div>
                   <div class="cs_header_contact_right">
-                    <h3 class="text-white fw-normal cs_mb_6 cs_fs_13">Need help?  Call us:</h3>
-                    <h3 class="text-white m-0 cs_fs_13">(+800) 1234 5678 90</h3>
+                    <h3 class="text-white fw-normal cs_mb_6 cs_fs_13">Butuh bantuan?  Hubungi kami:</h3>
+                    <h3 class="text-white m-0 cs_fs_13">+62 823-2030-8466</h3>
                   </div>
                 </div>
               </div>
