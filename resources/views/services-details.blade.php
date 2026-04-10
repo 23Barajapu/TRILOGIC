@@ -1,7 +1,7 @@
 @extends('layout.layout')
 
 @section('content')
-<x-header pageTitle="Accounting and Bookkeeping" breadcrumbItem="Accounting and Bookkeeping" />
+<x-header pageTitle="Head Shoulder Massage" breadcrumbItem="Head Shoulder Massage" />
 
     <!-- Start Service Details Section -->
     <section class="cs_pt_140 cs_pt_lg_80 cs_pb_115 cs_pb_lg_55">
@@ -11,10 +11,10 @@
             <div class="cs_service_list cs_mb_40">
               <h2 class="cs_fs_20 text-white text-uppercase bg-accent cs_pl_30 cs_pr_30 cs_pt_23 cs_pb_23 m-0">All Services</h2>
               <ul class="m-0 cs_pl_30 cs_pr_30 cs_pt_30 cs_pb_30">
-                <li><a href="{{ url('services-details') }}" class="active">Accounting and Bookkeeping <i class="fa-solid fa-arrow-right-long"></i></a></li>
-                <li><a href="{{ url('services-details') }}">Marketing and Advertising <i class="fa-solid fa-arrow-right-long"></i></a></li>
-                <li><a href="{{ url('services-details') }}">IT Support and Consulting <i class="fa-solid fa-arrow-right-long"></i></a></li>
-                <li><a href="{{ url('services-details') }}">Human Resources <i class="fa-solid fa-arrow-right-long"></i></a></li>
+                <li><a href="{{ url('services-details') }}" class="active">Head Shoulder Massage <i class="fa-solid fa-arrow-right-long"></i></a></li>
+                <li><a href="{{ url('services-details') }}">Foot Massage <i class="fa-solid fa-arrow-right-long"></i></a></li>
+                <li><a href="{{ url('services-details') }}">Back Massage <i class="fa-solid fa-arrow-right-long"></i></a></li>
+                <li><a href="{{ url('services-details') }}">Lulur/Scrub Full Body <i class="fa-solid fa-arrow-right-long"></i></a></li>
                 <li><a href="{{ url('services-details') }}">Web Development <i class="fa-solid fa-arrow-right-long"></i></a></li>
                 <li><a href="{{ url('services-details') }}">SEO & Content Writing <i class="fa-solid fa-arrow-right-long"></i></a></li>
               </ul>
@@ -80,7 +80,7 @@
                     </svg>                                      
                   </div>
                   <div>
-                    <h2 class="m-0 fw-medium cs_fs_20 cs_lh_base">Accounting and Bookkeeping</h2>
+                    <h2 class="m-0 fw-medium cs_fs_20 cs_lh_base">Head Shoulder Massage</h2>
                   </div>
                 </div>
                 <div class="d-flex align-items-center cs_mb_30">
@@ -102,7 +102,7 @@
                     </svg>                      
                   </div>
                   <div>
-                    <h2 class="m-0 fw-medium cs_fs_20 cs_lh_base">IT Support and Consulting</h2>
+                    <h2 class="m-0 fw-medium cs_fs_20 cs_lh_base">Back Massage</h2>
                   </div>
                 </div>
               </div>

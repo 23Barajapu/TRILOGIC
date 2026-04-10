@@ -126,14 +126,14 @@
                 <div class="col-lg-6">
                   <div class="cs_about-icon-box position-relative cs_mb_25">
                     <span class="position-absolute cs_height_20 cs_width_20 top-0 start-0 cs_mt_5 bg-accent text-white cs_fs_10 d-flex align-items-center justify-content-center cs_rounded_30"><i class="fa-solid fa-angles-right"></i></span>
-                    <h3 class="cs_fs_16 cs_pl_35 cs_mb_12 cs_lh_lg">Accounting and Bookkeeping</h3>
+                    <h3 class="cs_fs_16 cs_pl_35 cs_mb_12 cs_lh_lg">Head Shoulder Massage</h3>
                     <p class="m-0">Services related to financial record-keeping, bookkeeping.</p>
                   </div>
                 </div>
                 <div class="col-lg-6">
                   <div class="cs_about-icon-box position-relative cs_mb_25">
                     <span class="position-absolute cs_height_20 cs_width_20 top-0 start-0 cs_mt_5 bg-accent text-white cs_fs_10 d-flex align-items-center justify-content-center cs_rounded_30"><i class="fa-solid fa-angles-right"></i></span>
-                    <h3 class="cs_fs_16 cs_pl_35 cs_mb_12 cs_lh_lg">Human Resources (HR) Consulting</h3>
+                    <h3 class="cs_fs_16 cs_pl_35 cs_mb_12 cs_lh_lg">Lulur/Scrub Full Body (HR) Consulting</h3>
                     <p class="m-0">Assistance with HR-related tasks such as recruitment.</p>
                   </div>
                 </div>
@@ -196,7 +196,7 @@
                       </defs>
                     </svg>                
                   </div>
-                  <h2 class="cs_lh_base cs_fs_20 cs_fs_lg_18 m-0"><a href="{{ url('services-details') }}" class="inline-block">Human Resources <br>Consulting</a></h2>
+                  <h2 class="cs_lh_base cs_fs_20 cs_fs_lg_18 m-0"><a href="{{ url('services-details') }}" class="inline-block">Lulur/Scrub Full Body <br>Consulting</a></h2>
                 </div>
                 <p class="cs_mb_20">Our expert consultants work closely with you to develop tailored financial strategies that align with your short-term and long-term aspirations.</p>
                 <div class="text-primary">
@@ -336,7 +336,7 @@
                       </defs>
                     </svg>                
                   </div>
-                  <h2 class="cs_lh_base cs_fs_20 cs_fs_lg_18 m-0"><a href="{{ url('services-details') }}" class="inline-block">Human Resources <br>Consulting</a></h2>
+                  <h2 class="cs_lh_base cs_fs_20 cs_fs_lg_18 m-0"><a href="{{ url('services-details') }}" class="inline-block">Lulur/Scrub Full Body <br>Consulting</a></h2>
                 </div>
                 <p class="cs_mb_20">Our expert consultants work closely with you to develop tailored financial strategies that align with your short-term and long-term aspirations.</p>
                 <div class="text-primary">

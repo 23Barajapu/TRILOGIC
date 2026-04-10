@@ -167,8 +167,8 @@
                     </svg>                                                                    
                   </div>
                   <div>
-                    <h2 class="cs_fs_20 cs_mb_8">Accounting and bookkeeping</h2>
-                    <p class="m-0">Your reliable partner in simplifying the complexities of accounting and bookkeeping.</p>
+                    <h2 class="cs_fs_20 cs_mb_8">Head Shoulder Massage</h2>
+                    <p class="m-0">Your reliable partner in simplifying the complexities of Head Shoulder Massage.</p>
                   </div>
                 </div>
                 <div class="cs_about_icon_box d-flex align-items-center cs_mb_30">
@@ -223,7 +223,7 @@
                   </div>
                   <div>
                     <h2 class="cs_fs_20 cs_mb_8">Finance market advisory</h2>
-                    <p class="m-0">Your reliable partner in simplifying the complexities of accounting and bookkeeping.</p>
+                    <p class="m-0">Your reliable partner in simplifying the complexities of Head Shoulder Massage.</p>
                   </div>
                 </div>
               </div>
@@ -290,7 +290,7 @@
             <div class="cs_slide">
               <div class="cs_service cs_style_1 cs_type_1 cs_pt_25 cs_pl_25 cs_pr_25 cs_pb_15 bg-white cs_transition_4 shadow cs_mb_25">
                 <div class="cs_service_thumb position-relative cs_rounded_5 cs_mb_25">
-                  <div class="cs_service_thumb-in position-relative-in background-filled h-100" data-src="assets/img/service_1.jpeg"></div>
+                  <div class="cs_service_thumb-in position-relative-in background-filled h-100" data-src="assets/img/service_1.jpg"></div>
                 </div>
                 <div class="cs_service_iconbox d-flex align-items-center cs_mb_20">
                   <div class="cs_service_icon d-flex align-items-center justify-content-center cs_rounded_5 cs_mr_15 cs_transition_4 flex-none">
@@ -306,7 +306,7 @@
                       <path d="M36.0414 5.19195C34.5098 4.52484 32.721 5.22773 32.0537 6.7593L31.8784 7.16164V4.14C31.8784 1.85719 30.0212 0 27.7384 0H4.27867C1.99586 0 0.138672 1.85719 0.138672 4.14V35.86C0.138672 38.1428 1.99586 40 4.27867 40H27.7384C30.0212 40 31.8784 38.1428 31.8784 35.86V22.3316C32.1787 21.6423 37.2757 9.94398 37.6087 9.17969C38.2777 7.64445 37.5766 5.86086 36.0414 5.19195ZM21.1896 31.6934H15.213C14.8894 31.6934 14.6271 31.9557 14.6271 32.2794C14.6271 32.603 14.8894 32.8653 15.213 32.8653H20.6816C20.4048 33.5308 20.2655 34.2334 20.2702 34.9561V34.9562L20.2962 38.8281H4.27867C2.64203 38.8281 1.31055 37.4966 1.31055 35.86V4.14C1.31055 2.50336 2.64203 1.17188 4.27867 1.17188H27.7384C29.375 1.17188 30.7065 2.50336 30.7065 4.14V9.85125C29.9661 11.5505 27.8855 16.3256 27.1616 17.9872H15.2131C14.8895 17.9872 14.6272 18.2495 14.6272 18.5731C14.6272 18.8968 14.8895 19.1591 15.2131 19.1591H26.651L25.9182 20.841H15.2131C14.8895 20.841 14.6272 21.1033 14.6272 21.427C14.6272 21.7506 14.8895 22.0129 15.2131 22.0129H25.4076L22.4331 28.8396H15.2131C14.8895 28.8396 14.6272 29.1019 14.6272 29.4255C14.6272 29.7492 14.8895 30.0115 15.2131 30.0115H21.9225L21.1896 31.6934ZM21.4421 34.9483C21.4409 34.7615 21.4532 34.5766 21.4762 34.3937C21.9887 34.617 21.2743 34.3057 24.572 35.7425C24.4537 35.8839 24.3267 36.0188 24.1891 36.1451L21.4669 38.642L21.4421 34.9483ZM30.7065 35.86C30.7065 37.4966 29.375 38.8281 27.7384 38.8281H22.9977L24.9812 37.0088C25.5362 36.4996 25.9702 35.8914 26.2712 35.2008L30.7065 25.0211V35.86ZM25.1968 34.7327C25.1963 34.7337 25.1958 34.7347 25.1953 34.7358L24.0294 34.2278L26.7874 27.8978C26.9166 27.6011 26.7809 27.2559 26.4843 27.1266C26.1875 26.9974 25.8423 27.1331 25.713 27.4297L22.955 33.7597L21.7891 33.2517C21.7896 33.2507 21.7899 33.2496 21.7904 33.2486L30.7481 12.6898L31.9141 13.1977L26.8071 24.9187C26.6779 25.2155 26.8136 25.5607 27.1102 25.69C27.4086 25.8199 27.7529 25.682 27.8815 25.3869L32.9884 13.6658L34.1544 14.1737C34.0119 14.5009 25.3323 34.4216 25.1968 34.7327ZM34.6226 13.0994L31.2162 11.6153L31.7977 10.2808L35.2041 11.7649L34.6226 13.0994ZM36.5344 8.71156L35.6721 10.6905L32.2658 9.20641L33.128 7.22742C33.5371 6.28828 34.6341 5.85711 35.5733 6.26633C36.5145 6.67633 36.9448 7.77 36.5344 8.71156Z" fill="white"/>
                     </svg>                    
                   </div>
-                  <h2 class="cs_lh_base cs_fs_20 cs_fs_lg_18 m-0"><a href="{{ url('services-details') }}" class="inline-block">Accounting and Bookkeeping</a></h2>
+                  <h2 class="cs_lh_base cs_fs_20 cs_fs_lg_18 m-0"><a href="{{ url('services-details') }}" class="inline-block">Head Shoulder Massage</a></h2>
                 </div>
                 <p class="cs_mb_20">Our expert consultants work closely with you to develop tailored financial strategies that align with your short-term and long-term.</p>
                 <a href="{{ url('services-details') }}" class="cs_service_btn d-flex align-items-center justify-content-center rounded-circle text-white">
@@ -319,7 +319,7 @@
             <div class="cs_slide">
               <div class="cs_service cs_style_1 cs_type_1 cs_pt_25 cs_pl_25 cs_pr_25 cs_pb_15 bg-white cs_transition_4 shadow cs_mb_25">
                 <div class="cs_service_thumb position-relative cs_rounded_5 cs_mb_25">
-                  <div class="cs_service_thumb-in position-relative-in background-filled h-100" data-src="assets/img/service_2.jpeg"></div>
+                  <div class="cs_service_thumb-in position-relative-in background-filled h-100" data-src="assets/img/service_2.jpg"></div>
                 </div>
                 <div class="cs_service_iconbox d-flex align-items-center cs_mb_20">
                   <div class="cs_service_icon d-flex align-items-center justify-content-center cs_rounded_5 cs_mr_15 cs_transition_4 flex-none">
@@ -352,7 +352,7 @@
             <div class="cs_slide">
               <div class="cs_service cs_style_1 cs_type_1 cs_pt_25 cs_pl_25 cs_pr_25 cs_pb_15 bg-white cs_transition_4 shadow cs_mb_25">
                 <div class="cs_service_thumb position-relative cs_rounded_5 cs_mb_25">
-                  <div class="cs_service_thumb-in position-relative-in background-filled h-100" data-src="assets/img/service_2.jpeg"></div>
+                  <div class="cs_service_thumb-in position-relative-in background-filled h-100" data-src="assets/img/service_2.jpg"></div>
                 </div>
                 <div class="cs_service_iconbox d-flex align-items-center cs_mb_20">
                   <div class="cs_service_icon d-flex align-items-center justify-content-center cs_rounded_5 cs_mr_15 cs_transition_4 flex-none">
@@ -382,7 +382,7 @@
             <div class="cs_slide">
               <div class="cs_service cs_style_1 cs_type_1 cs_pt_25 cs_pl_25 cs_pr_25 cs_pb_15 bg-white cs_transition_4 shadow cs_mb_25">
                 <div class="cs_service_thumb position-relative cs_rounded_5 cs_mb_25">
-                  <div class="cs_service_thumb-in position-relative-in background-filled h-100" data-src="assets/img/service_4.jpeg"></div>
+                  <div class="cs_service_thumb-in position-relative-in background-filled h-100" data-src="assets/img/service_4.jpg"></div>
                 </div>
                 <div class="cs_service_iconbox d-flex align-items-center cs_mb_20">
                   <div class="cs_service_icon d-flex align-items-center justify-content-center cs_rounded_5 cs_mr_15 cs_transition_4 flex-none">
@@ -411,7 +411,7 @@
             <div class="cs_slide">
               <div class="cs_service cs_style_1 cs_type_1 cs_pt_25 cs_pl_25 cs_pr_25 cs_pb_15 bg-white cs_transition_4 shadow cs_mb_25">
                 <div class="cs_service_thumb position-relative cs_rounded_5 cs_mb_25">
-                  <div class="cs_service_thumb-in position-relative-in background-filled h-100" data-src="assets/img/service_1.jpeg"></div>
+                  <div class="cs_service_thumb-in position-relative-in background-filled h-100" data-src="assets/img/service_1.jpg"></div>
                 </div>
                 <div class="cs_service_iconbox d-flex align-items-center cs_mb_20">
                   <div class="cs_service_icon d-flex align-items-center justify-content-center cs_rounded_5 cs_mr_15 cs_transition_4 flex-none">
@@ -427,7 +427,7 @@
                       <path d="M36.0414 5.19195C34.5098 4.52484 32.721 5.22773 32.0537 6.7593L31.8784 7.16164V4.14C31.8784 1.85719 30.0212 0 27.7384 0H4.27867C1.99586 0 0.138672 1.85719 0.138672 4.14V35.86C0.138672 38.1428 1.99586 40 4.27867 40H27.7384C30.0212 40 31.8784 38.1428 31.8784 35.86V22.3316C32.1787 21.6423 37.2757 9.94398 37.6087 9.17969C38.2777 7.64445 37.5766 5.86086 36.0414 5.19195ZM21.1896 31.6934H15.213C14.8894 31.6934 14.6271 31.9557 14.6271 32.2794C14.6271 32.603 14.8894 32.8653 15.213 32.8653H20.6816C20.4048 33.5308 20.2655 34.2334 20.2702 34.9561V34.9562L20.2962 38.8281H4.27867C2.64203 38.8281 1.31055 37.4966 1.31055 35.86V4.14C1.31055 2.50336 2.64203 1.17188 4.27867 1.17188H27.7384C29.375 1.17188 30.7065 2.50336 30.7065 4.14V9.85125C29.9661 11.5505 27.8855 16.3256 27.1616 17.9872H15.2131C14.8895 17.9872 14.6272 18.2495 14.6272 18.5731C14.6272 18.8968 14.8895 19.1591 15.2131 19.1591H26.651L25.9182 20.841H15.2131C14.8895 20.841 14.6272 21.1033 14.6272 21.427C14.6272 21.7506 14.8895 22.0129 15.2131 22.0129H25.4076L22.4331 28.8396H15.2131C14.8895 28.8396 14.6272 29.1019 14.6272 29.4255C14.6272 29.7492 14.8895 30.0115 15.2131 30.0115H21.9225L21.1896 31.6934ZM21.4421 34.9483C21.4409 34.7615 21.4532 34.5766 21.4762 34.3937C21.9887 34.617 21.2743 34.3057 24.572 35.7425C24.4537 35.8839 24.3267 36.0188 24.1891 36.1451L21.4669 38.642L21.4421 34.9483ZM30.7065 35.86C30.7065 37.4966 29.375 38.8281 27.7384 38.8281H22.9977L24.9812 37.0088C25.5362 36.4996 25.9702 35.8914 26.2712 35.2008L30.7065 25.0211V35.86ZM25.1968 34.7327C25.1963 34.7337 25.1958 34.7347 25.1953 34.7358L24.0294 34.2278L26.7874 27.8978C26.9166 27.6011 26.7809 27.2559 26.4843 27.1266C26.1875 26.9974 25.8423 27.1331 25.713 27.4297L22.955 33.7597L21.7891 33.2517C21.7896 33.2507 21.7899 33.2496 21.7904 33.2486L30.7481 12.6898L31.9141 13.1977L26.8071 24.9187C26.6779 25.2155 26.8136 25.5607 27.1102 25.69C27.4086 25.8199 27.7529 25.682 27.8815 25.3869L32.9884 13.6658L34.1544 14.1737C34.0119 14.5009 25.3323 34.4216 25.1968 34.7327ZM34.6226 13.0994L31.2162 11.6153L31.7977 10.2808L35.2041 11.7649L34.6226 13.0994ZM36.5344 8.71156L35.6721 10.6905L32.2658 9.20641L33.128 7.22742C33.5371 6.28828 34.6341 5.85711 35.5733 6.26633C36.5145 6.67633 36.9448 7.77 36.5344 8.71156Z" fill="white"/>
                     </svg>                    
                   </div>
-                  <h2 class="cs_lh_base cs_fs_20 cs_fs_lg_18 m-0"><a href="{{ url('services-details') }}" class="inline-block">Accounting and Bookkeeping</a></h2>
+                  <h2 class="cs_lh_base cs_fs_20 cs_fs_lg_18 m-0"><a href="{{ url('services-details') }}" class="inline-block">Head Shoulder Massage</a></h2>
                 </div>
                 <p class="cs_mb_20">Our expert consultants work closely with you to develop tailored financial strategies that align with your short-term and long-term.</p>
                 <a href="{{ url('services-details') }}" class="cs_service_btn d-flex align-items-center justify-content-center rounded-circle text-white">
@@ -440,7 +440,7 @@
             <div class="cs_slide">
               <div class="cs_service cs_style_1 cs_type_1 cs_pt_25 cs_pl_25 cs_pr_25 cs_pb_15 bg-white cs_transition_4 shadow cs_mb_25">
                 <div class="cs_service_thumb position-relative cs_rounded_5 cs_mb_25">
-                  <div class="cs_service_thumb-in position-relative-in background-filled h-100" data-src="assets/img/service_2.jpeg"></div>
+                  <div class="cs_service_thumb-in position-relative-in background-filled h-100" data-src="assets/img/service_2.jpg"></div>
                 </div>
                 <div class="cs_service_iconbox d-flex align-items-center cs_mb_20">
                   <div class="cs_service_icon d-flex align-items-center justify-content-center cs_rounded_5 cs_mr_15 cs_transition_4 flex-none">
@@ -473,7 +473,7 @@
             <div class="cs_slide">
               <div class="cs_service cs_style_1 cs_type_1 cs_pt_25 cs_pl_25 cs_pr_25 cs_pb_15 bg-white cs_transition_4 shadow cs_mb_25">
                 <div class="cs_service_thumb position-relative cs_rounded_5 cs_mb_25">
-                  <div class="cs_service_thumb-in position-relative-in background-filled h-100" data-src="assets/img/service_2.jpeg"></div>
+                  <div class="cs_service_thumb-in position-relative-in background-filled h-100" data-src="assets/img/service_2.jpg"></div>
                 </div>
                 <div class="cs_service_iconbox d-flex align-items-center cs_mb_20">
                   <div class="cs_service_icon d-flex align-items-center justify-content-center cs_rounded_5 cs_mr_15 cs_transition_4 flex-none">
@@ -503,7 +503,7 @@
             <div class="cs_slide">
               <div class="cs_service cs_style_1 cs_type_1 cs_pt_25 cs_pl_25 cs_pr_25 cs_pb_15 bg-white cs_transition_4 shadow cs_mb_25">
                 <div class="cs_service_thumb position-relative cs_rounded_5 cs_mb_25">
-                  <div class="cs_service_thumb-in position-relative-in background-filled h-100" data-src="assets/img/service_4.jpeg"></div>
+                  <div class="cs_service_thumb-in position-relative-in background-filled h-100" data-src="assets/img/service_4.jpg"></div>
                 </div>
                 <div class="cs_service_iconbox d-flex align-items-center cs_mb_20">
                   <div class="cs_service_icon d-flex align-items-center justify-content-center cs_rounded_5 cs_mr_15 cs_transition_4 flex-none">
