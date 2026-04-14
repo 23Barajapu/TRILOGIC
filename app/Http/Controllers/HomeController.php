@@ -8,7 +8,7 @@ class HomeController extends Controller
 {
     public function index()
     {
-        $layanans = \App\Models\Layanan::all();
+        $layanans = \App\Models\Layanan::take(4)->get();
         return view('index', ['layanans' => $layanans]);
     }
 
