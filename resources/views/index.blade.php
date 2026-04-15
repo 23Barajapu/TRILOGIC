@@ -18,12 +18,12 @@
         <div class="container">
           <div class="cs_main_header_in">
             <div class="cs_main_header_left">
-              <a class="cs_site_branding" href="{{ url('index') }}">
+              <a class="cs_site_branding" href="{{ url('/') }}">
                 <img src="{{ asset('assets/img/logo.svg') }}" alt="Logo">
               </a>
               <div class="cs_nav cs_primary_font fw-medium">
                 <ul class="cs_nav_list fw-medium text-uppercase">
-                  <li><a href="{{ url('index') }}">Beranda</a></li>
+                  <li><a href="{{ url('/') }}">Beranda</a></li>
                   <li><a href="{{ url('about') }}">Tentang</a></li>
                   <li><a href="{{ url('service') }}">Layanan</a></li>
                   <li><a href="{{ url('contact') }}">Kontak</a></li>
@@ -205,6 +205,7 @@
           </div>
         </div>
         <div class="row">
+          @isset($layanans)
           @foreach($layanans as $layanan)
           <div class="col-xl-3 col-md-6 mb-4">
             <div class="cs_service cs_style_1 cs_pt_25 cs_pl_25 cs_pr_25 cs_pb_15 bg-white cs_transition_4 shadow h-100 d-flex flex-column">
@@ -240,6 +241,7 @@
             </div>
           </div>
           @endforeach
+          @endisset
         </div>
         <div class="cs_service_1-info  text-center cs_mt_40 d-flex justify-content-center align-items-center flex-wrap">
           <h4 class="fw-normal m-0">Rasakan relaksasi terbaik dan segarkan tubuh Anda sekarang juga</h4>
