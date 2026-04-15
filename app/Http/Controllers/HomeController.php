@@ -18,6 +18,8 @@ class HomeController extends Controller
             $data = [];
             if ($request->path() === 'service') {
                 $data['layanans'] = \App\Models\Layanan::all();
+            } elseif ($request->path() === 'index') {
+                $data['layanans'] = \App\Models\Layanan::take(4)->get();
             }
             return view($request->path(), $data);
         } else {
