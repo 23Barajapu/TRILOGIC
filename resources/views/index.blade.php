@@ -255,10 +255,10 @@
 <section class="cs_pt_135 cs_pt_lg_75 cs_pb_140 cs_pb_lg_80 position-relative">
   <div class="container">
     <div class="row">
-      <div class="col-lg-6 cs_mb_lg_55">
+      <!-- <div class="col-lg-6 cs_mb_lg_55">
         <div class="cs_experience cs_style_1 position-relative">
           <div class="cs_experience_thumb">
-            <img src="{{ asset('assets/img/pijatabout.jpg') }}" alt="Thumb" class="position-relative cs_zindex_3 cs_rounded_15">
+            <img src="{{ asset('assets/img/about_img_3.png') }}" alt="Thumb" class="position-relative cs_zindex_3 cs_rounded_15">
             <div class="cs_experience_shape"><img src="{{ asset('assets/img/experience_shape_1.png') }}" alt="Shape" class="moving_x"></div>
           </div>
           <div class="cs_experience_box background-filled text-center bg-white cs_rounded_10 position-absolute bottom-0 end-0 cs_zindex_3 d-flex flex-column justify-content-center align-items-center" data-src="{{ asset('assets/img/experience_bg.jpeg') }}">
@@ -270,8 +270,8 @@
             <h2 class="cs_fs_18 fw-normal text-white m-0">Work Experience</h2>
           </div>
         </div>
-      </div>
-      <div class="col-lg-6">
+      </div> -->
+      <div class="col-lg-12">
         <div class="cs_about cs_style_1">
           <div class="cs_section_heading cs_style_1 d-flex align-items-center cs_mb_15">
             <div class="cs_section_heading_in">
